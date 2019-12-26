@@ -1,1 +1,1 @@
-web: java -jar -cp target/race_bot_heroku.jar
+web: java -jar target/race_bot_heroku.jar
