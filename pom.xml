@@ -38,8 +38,7 @@
     <build>
         <plugins>
             <plugin>
-                <groupId>maven-assembly-plugin</groupId>
-                <artifactId>maven-jar-plugin</artifactId>
+                <artifactId>maven-assembly-plugin</artifactId>
                 <version>3.2.0</version>
                 <configuration>
                     <archive>
