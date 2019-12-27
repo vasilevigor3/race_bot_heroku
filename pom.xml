@@ -59,7 +59,7 @@
                 <configuration>
                     <archive>
                         <manifest>
-                            <mainClass>Main</mainClass>
+                            <mainClass>race_bot_heroku.Main</mainClass>
                         </manifest>
                     </archive>
                     <descriptorRefs>
